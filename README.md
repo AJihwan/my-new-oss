@@ -2,9 +2,9 @@
 저장소
 # 📌 프로젝트 이름  
 > 이 프로젝트는 학교 OSS과제를 위한 리포지토리입니다.
-![GitHub repo size](https://img.shields.io/github/repo-size/사용자명/저장소명)
-![GitHub stars](https://img.shields.io/github/stars/사용자명/저장소명?style=social)
-![GitHub forks](https://img.shields.io/github/forks/사용자명/저장소명?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/AJihwan/my-new-oss)
+![GitHub stars](https://img.shields.io/github/stars/AJihwan/my-new-oss?style=social)
+![GitHub forks](https://img.shields.io/github/forks/AJihwan/my-new-oss?style=social)
 
 ---
 
