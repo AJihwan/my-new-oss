@@ -20,5 +20,5 @@
 ### 설치 방법  
 1. 이 리포지토리를 클론합니다.  
    ```bash
-   git clone https://github.com/사용자명/저장소명.git
+   git clone https://github.com/AJihwan/my-new-oss.git
    cd 저장소명
