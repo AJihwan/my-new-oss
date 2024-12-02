@@ -16,27 +16,6 @@
 
 ## 🚀 시작하기 (Getting Started)  
 이 프로젝트를 로컬에서 실행하기 위한 간단한 가이드입니다.  
-MIT License
-
-Copyright (c) [년도] [저작권자 이름]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
 
 
 ### 설치 방법  
@@ -44,3 +23,7 @@ SOFTWARE.
    ```bash
    git clone https://github.com/AJihwan/my-new-oss.git
    cd 저장소명
+## 📞 연락처  
+
+- **이메일**: [jack200552@gmail.com](mailto:jack200552@gmail.com)  
+- **GitHub**: [AJihwan](https://github.com/AJihwan)    
